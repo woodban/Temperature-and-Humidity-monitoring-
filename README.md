@@ -33,6 +33,6 @@ The NodeMCU and DHT11 sensor form the core of the system.
 
 ---
 
-## Project Images
+## Project Image
 
 ![IMG_20250302_000607](https://github.com/user-attachments/assets/ae64ad83-9bae-4406-bff2-98076cae1525)
