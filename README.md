@@ -18,7 +18,6 @@ The following apparatus is required for this project:
 | **Jumper Wires** | Connects the components together. |
 | **USB Cable** | Used to connect the NodeMCU to the PC for programming and power. |
 
-***Note:** The provided circuit diagram uses an ESP32 and DHT22 instead of the NodeMCU and DHT11, but the circuit connections are functionally the same.*
 
 ---
 
@@ -31,8 +30,6 @@ The NodeMCU and DHT11 sensor form the core of the system.
 3.  **Cloud Integration:** The data is transmitted to the **ThingSpeak cloud platform**.
 4.  **Monitoring:** The data is updated every **5-15 seconds**, allowing users to monitor climate conditions remotely.
 5.  **Visualization:** ThingSpeak then visualizes the readings in graphs, making it easy to analyze trends over time.
-
-This project helps prevent damage to sensitive equipment, improves storage conditions, and enhances automation in smart environments. The system is easy to implement, cost-effective, and can be expanded with alerts, automation, and mobile app integration.
 
 ---
 
